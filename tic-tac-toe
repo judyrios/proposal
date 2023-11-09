@@ -1,0 +1,39 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Tic-Tac-Toe
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game where you play tic-tac-toe against someone else on the same game board. 
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+My project will be a gameboard that allows you to play tic-tac-toe. It will be two people playing on computer, each taking a turn to essentially, get three in a row. Once someone wins they will get a positive statement and the loser will get a statement telling them to try again. It is all a work in progress but it is a pretty straight to the point game.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+NOT APPLICABLE
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+NOT APPLICABLE
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+Something that I will accomplish no matter what is a working game board. 
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Something I think I can accomplish before the deadline is adding sound effects and having on screen commands like "good job" or "better luck next time!"
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+Something that I hope to accomplish is a aesthetically pleasing game, I don't want it to look simple and boring. I hope to make it flashy and more interesting which will want people to play it even more. 
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I think that the skills I need to require are: adding a button, labeling, and a smooth gameplay. For this I need to research more about game development even though it may seem simple. I believe that this should be a really good starting project in programming. Overall, I have a lot of research to do but it seems very doable. 
